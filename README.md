@@ -13,5 +13,5 @@ Program that stores movies and theie seating in a local text file. Allows adding
 - Add a movie
 - Remove a movie
 - Quit
-5. The program will lead you through these processes, once your done you may view the text file of movies you've added / booked in the movieinfo.txt
+5. The program will lead you through these processes, once your done you may view the text file of movies you've added / booked in movieinfo.txt
 - Rerunning the main executable will start where you left off last time, so you don't have to worry about any information getting lost
