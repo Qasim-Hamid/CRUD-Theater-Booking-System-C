@@ -2,7 +2,7 @@
 Program that stores movies and theie seating in a local text file. Allows adding and removing movies, booking seats and viewing currently airing movies. 
 
 # How to use
-1. Adds all files to local device and store in a folder
+1. Add all files to local device and store in a folder
 2. Run the makefile
  - there are many ways to this, resources are available online to do this on your operating system
  - If succusful, you should see a main.exe file in the folder
