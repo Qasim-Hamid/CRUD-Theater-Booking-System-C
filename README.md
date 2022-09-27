@@ -1,4 +1,4 @@
-# Theater-Booking-C
+# CRUD Theater-Booking-C
 Program that stores movies and their seating in a local text file. Allows adding and removing movies, booking seats and viewing currently airing movies. 
 
 # How to use
