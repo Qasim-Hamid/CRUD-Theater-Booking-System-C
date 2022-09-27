@@ -1,5 +1,5 @@
 # CRUD Theater-Booking-C
-Program that stores movies and their seating in a local text file. Allows adding and removing movies, booking seats and viewing currently airing movies. 
+•	Movie storage system that allows the user to create, read, update, and delete (CRUD) movies and seat bookings.
 
 # How to use
 1. Add all files to local device and store in a folder
